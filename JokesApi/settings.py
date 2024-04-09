@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-)=)ey2xx1_z-v7rfva-wtg7-h(cn!pm29(nn&8s9&_b*3#sw*&
 DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
-CSRF_TRUSTED_ORIGINS = ['https://jokes-tgdo.onrender.com/','https://*.127.0.0.1']
+CSRF_TRUSTED_ORIGINS = ['https://jokes-tgdo.onrender.com','https://*.127.0.0.1']
 
 # Application definition
 
