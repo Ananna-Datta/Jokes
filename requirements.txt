@@ -3,6 +3,7 @@ crispy-bootstrap5
 dj-database-url
 Django
 django-crispy-forms
+django-cors-headers
 django-environ
 django-filter
 djangorestframework
